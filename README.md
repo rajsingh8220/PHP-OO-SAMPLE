@@ -1,2 +1,0 @@
-# PHP-OO-SAMPLE
-PHP OO and MySQL
